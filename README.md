@@ -10,3 +10,4 @@ To create random passwords based of character count and character requirements.
 *JavaScript
 
 ## Website
+https://timanlemvo.github.io/pass-gen/
